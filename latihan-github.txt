@@ -1,2 +1,3 @@
-Ini adalah halaman baru latihan github
+Ini adalah halaman baru latihan github /kalimat pertama
 Ini adalah penambahan kalimat kedua
+Ini adalah penambahan kelimat ketiga
